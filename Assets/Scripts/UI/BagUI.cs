@@ -4,17 +4,20 @@ using System.Text;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.UIElements;
-using static BagItemInfos;
-using static UnityEditor.Progress;
 
-public class BagUI : Singleton<BagUI>
+public class BagUI : MonoBehaviour
 {
+    public static BagUI instance;
     public HashSet<string> ItemIDs;
     public Dictionary<string, GameObject> activeItems;
 
-    override protected void Awake()
+    protected void Awake()
     {
-        base.Awake();
+        if(instance != null){
+            Debug.LogWarning("Instance Has Exist!");
+            Destroy(this);
+        }
+        instance = this;
         ItemIDs = new HashSet<string>();
         activeItems = new Dictionary<string, GameObject>();
         var childCount = transform.childCount;
