@@ -2,7 +2,6 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using DialogueEditor;
-using static UnityEditor.Progress;
 using System.IO;
 
 public class NPCClickToTalk : MonoBehaviour
