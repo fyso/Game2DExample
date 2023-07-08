@@ -1,21 +1,20 @@
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
+using UnityEngine.UIElements;
+using static BagItemInfos;
 
 public class BagUI : MonoBehaviour
 {
+    public BagItemInfos BagInfo;
     public HashSet<string> ItemIDs;
-    public List<GameObject> BagItems;
+    public List<BagItemInfo> BagItems;
+    public Dictionary<string, GameObject> activeItems;
     private void Awake()
     {
         ItemIDs = new HashSet<string>();
-        BagItems = new List<GameObject>();
-
-        var count = transform.childCount;
-        for(int i = 0; i < count; i++)
-        {
-            var child = transform.GetChild(i).gameObject;
-            if(child != null) BagItems.Add(child);
-        }
+        BagItems = new List<BagItemInfo>();
+        activeItems = new Dictionary<string, GameObject>();
     }
     public void ShowItem(string itemName)
     {
@@ -25,11 +24,13 @@ public class BagUI : MonoBehaviour
             return;
         }
         ItemIDs.Add(itemName);
-        foreach (var item in BagItems)
+        foreach (var item in BagInfo.ItemInfos)
         {
-            if (item.name == itemName)
+            if (item.Name == itemName)
             {
-                item.gameObject.SetActive(true);
+                var obj = Instantiate(item.ItemPrefab,transform);
+                obj.GetComponent<RectTransform>().SetParent(GetComponent<RectTransform>());
+                activeItems.Add(item.Name, obj);
             }
         }
     }
@@ -41,14 +42,8 @@ public class BagUI : MonoBehaviour
             return;
         }
         ItemIDs.Remove(itemName);
-
-        foreach (var item in BagItems)
-        {
-            if (item.name == itemName)
-            {
-                item.gameObject.SetActive(false);
-            }
-        }
+        Destroy(activeItems[itemName]);
+        activeItems.Remove(itemName);
     }
 
     public bool HasExist(string itemName)
