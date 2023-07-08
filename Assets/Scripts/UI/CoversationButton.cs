@@ -9,9 +9,24 @@ public class CoversationButton : MonoBehaviour
     {
         GetComponent<Button>().onClick.AddListener(PlayConversation);
     }
-    public void PlayConversation()
+    virtual public void PlayConversation()
     {
-        var selfConversation = GetComponent<NPCConversation>();
-        ConversationManager.Instance.StartConversation(selfConversation);
+        TryPlayConversation();
     }
+    virtual public bool TryPlayConversation()
+    {
+
+        if (GameManager.Instance.TryClick())
+        {
+            var selfConversation = GetComponent<NPCConversation>();
+            ConversationManager.Instance.StartConversation(selfConversation);
+            return true;
+        }
+        else
+        {
+            GameManager.Instance.ClickNumRunOut();
+            return false;
+        }
+    }
+
 }

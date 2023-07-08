@@ -479,7 +479,8 @@ namespace DialogueEditor
                 NpcIcon.sprite = speech.Icon;
             }
 
-            // Set font
+            // Set font（没有切换字体的需求 暂时Ban了）
+            /*
             if (speech.TMPFont != null)
             {
                 DialogueText.font = speech.TMPFont;
@@ -487,7 +488,7 @@ namespace DialogueEditor
             else
             {
                 DialogueText.font = null;
-            }
+            }*/
 
             // Set name
             NameText.text = speech.Name;
