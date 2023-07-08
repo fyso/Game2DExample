@@ -1,17 +1,21 @@
 using System.Collections.Generic;
+using System.IO;
+using System.Text;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.UIElements;
 using static BagItemInfos;
 
-public class BagUI : MonoBehaviour
+public class BagUI : Singleton<BagUI>
 {
     public BagItemInfos BagInfo;
     public HashSet<string> ItemIDs;
     public List<BagItemInfo> BagItems;
     public Dictionary<string, GameObject> activeItems;
-    private void Awake()
+
+    override protected void Awake()
     {
+        base.Awake();
         ItemIDs = new HashSet<string>();
         BagItems = new List<BagItemInfo>();
         activeItems = new Dictionary<string, GameObject>();
@@ -49,5 +53,34 @@ public class BagUI : MonoBehaviour
     public bool HasExist(string itemName)
     {
         return ItemIDs.Contains(itemName);
+    }
+
+    public void PrintItemTextOut()
+    {
+        StringBuilder stringBuilder = new StringBuilder();
+        foreach(var item in ItemIDs)
+        {
+            stringBuilder.Append(item.ToString());
+            stringBuilder.Append("/");
+        }
+        string outPath = Application.streamingAssetsPath;
+        if (!Directory.Exists(outPath))
+        {
+            Directory.CreateDirectory(outPath);
+        }
+        Debug.Log($"BagItemInfo Out: {outPath} {File.Exists(outPath)}");
+
+
+        outPath += "/ItemInfo.txt";
+        Debug.Log($"BagItemInfo Out: {outPath}");
+        FileInfo fileInfo = new FileInfo(outPath);
+
+        if(!fileInfo.Exists)
+        {
+            var sw = fileInfo.CreateText();
+            sw.Close();
+        }
+        File.WriteAllText(outPath,stringBuilder.ToString());
+
     }
 }
