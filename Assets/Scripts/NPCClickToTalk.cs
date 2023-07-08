@@ -3,16 +3,27 @@ using System.Collections.Generic;
 using UnityEngine;
 using DialogueEditor;
 using static UnityEditor.Progress;
+using System.IO;
 
 public class NPCClickToTalk : MonoBehaviour
 {
     private NPCConversation m_NPCConversation;
-    TextAsset ItemListTXT;
+    string ItemListTXT;
 
     private void Start()
     {
         m_NPCConversation = GetComponent<NPCConversation>();
-        ItemListTXT = Resources.Load<TextAsset>("ItemList");
+        //ItemListTXT = Resources.Load<TextAsset>("ItemList");
+
+        string outPath = Application.streamingAssetsPath;
+        outPath += "/ItemInfo.txt";
+        FileInfo fileInfo = new FileInfo(outPath);
+
+        if (fileInfo.Exists)
+        {
+            ItemListTXT = File.ReadAllText(fileInfo.FullName);
+        }
+        else Debug.LogError($"No Item Save Exsit In {outPath}");
     }
 
     private void OnMouseOver()
@@ -20,8 +31,8 @@ public class NPCClickToTalk : MonoBehaviour
         if (Input.GetMouseButtonDown(0))
         {
             ConversationManager.Instance.StartConversation(m_NPCConversation);
-            string ItemList = ItemListTXT.text;
-            string[] Items = ItemList.Split('\n');
+
+            string[] Items = ItemListTXT.Split('\n');
             foreach (var item in Items)
             {
                 ConversationManager.Instance.SetBool(item, true);

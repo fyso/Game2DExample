@@ -61,7 +61,7 @@ public class BagUI : Singleton<BagUI>
         foreach(var item in ItemIDs)
         {
             stringBuilder.Append(item.ToString());
-            stringBuilder.Append("/");
+            stringBuilder.Append('\n');
         }
         string outPath = Application.streamingAssetsPath;
         if (!Directory.Exists(outPath))
