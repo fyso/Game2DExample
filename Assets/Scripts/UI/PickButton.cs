@@ -11,6 +11,7 @@ public class PickButton : CoversationButton
         if (base.TryPlayConversation())
         {
             BagUI.Instance.ShowItem(ItemID);
+            gameObject.SetActive(false);
             return true;
         }
         return false;

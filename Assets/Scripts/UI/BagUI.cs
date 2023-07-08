@@ -5,20 +5,24 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.UIElements;
 using static BagItemInfos;
+using static UnityEditor.Progress;
 
 public class BagUI : Singleton<BagUI>
 {
-    public BagItemInfos BagInfo;
     public HashSet<string> ItemIDs;
-    public List<BagItemInfo> BagItems;
     public Dictionary<string, GameObject> activeItems;
 
     override protected void Awake()
     {
         base.Awake();
         ItemIDs = new HashSet<string>();
-        BagItems = new List<BagItemInfo>();
         activeItems = new Dictionary<string, GameObject>();
+        var childCount = transform.childCount;
+        for(int i = 0; i < childCount; ++i)
+        {
+            var childT = transform.GetChild(i).gameObject;
+            activeItems.Add(childT.name, childT);
+        }
     }
     public void ShowItem(string itemName)
     {
@@ -28,14 +32,10 @@ public class BagUI : Singleton<BagUI>
             return;
         }
         ItemIDs.Add(itemName);
-        foreach (var item in BagInfo.ItemInfos)
+        if(activeItems.ContainsKey(itemName))
         {
-            if (item.Name == itemName)
-            {
-                var obj = Instantiate(item.ItemPrefab,transform);
-                obj.GetComponent<RectTransform>().SetParent(GetComponent<RectTransform>());
-                activeItems.Add(item.Name, obj);
-            }
+            activeItems[itemName].transform.SetAsLastSibling();
+            activeItems[itemName].SetActive(true);
         }
     }
     public void DisableItem(string itemName)
@@ -46,8 +46,7 @@ public class BagUI : Singleton<BagUI>
             return;
         }
         ItemIDs.Remove(itemName);
-        Destroy(activeItems[itemName]);
-        activeItems.Remove(itemName);
+        activeItems[itemName].SetActive(false);
     }
 
     public bool HasExist(string itemName)
