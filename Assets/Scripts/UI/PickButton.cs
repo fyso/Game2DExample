@@ -1,8 +1,10 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.EventSystems;
 
-public class PickButton : CoversationButton
+public class PickButton : CoversationButton,IPointerEnterHandler,IPointerExitHandler
 {
     [Header("ÎïÆ·Ãû³Æ")]
     public string ItemID;
@@ -15,5 +17,27 @@ public class PickButton : CoversationButton
             return true;
         }
         return false;
+    }
+    private bool hasMouseChange = false;
+
+    private void OnDisable()
+    {
+        if (hasMouseChange)
+        {
+            hasMouseChange = false;
+            Cursor.SetCursor(null, Vector2.zero, CursorMode.Auto);
+        }
+    }
+
+    public void OnPointerEnter(PointerEventData eventData)
+    {
+        hasMouseChange = true;
+        Cursor.SetCursor(GameManager.Instance.CursorTex, Vector2.zero, CursorMode.Auto);
+    }
+
+    public void OnPointerExit(PointerEventData eventData)
+    {
+        hasMouseChange = false;
+        Cursor.SetCursor(null, Vector2.zero, CursorMode.Auto);
     }
 }

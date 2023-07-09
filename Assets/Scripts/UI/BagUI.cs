@@ -17,6 +17,7 @@ public class BagUI : MonoBehaviour
             Debug.LogWarning("Instance Has Exist!");
             Destroy(this);
         }
+
         instance = this;
         ItemIDs = new HashSet<string>();
         activeItems = new Dictionary<string, GameObject>();
