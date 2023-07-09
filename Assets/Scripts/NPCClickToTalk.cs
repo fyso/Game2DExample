@@ -30,6 +30,7 @@ public class NPCClickToTalk : MonoBehaviour
     {
         if (Input.GetMouseButtonDown(0))
         {
+            ClicableManager.Instance.TalkOneNPC(NPCName);
 
             ConversationManager.Instance.StartConversation(m_NPCConversation);
 
