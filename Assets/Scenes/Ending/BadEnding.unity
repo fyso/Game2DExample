@@ -658,7 +658,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 73026a2f5f9f23d41bb1af46f4e1ad4d, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 8ecd596d3d6eff740821ca2184697479, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -677,7 +677,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1240510083}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -8.46568, y: -2.1023035, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -828,15 +828,15 @@ MonoBehaviour:
       m_Calls: []
   m_text: "\u5728\u4F60\u7684\u6307\u8BA4\u4E0B,\u5ACC\u7591\u4EBA\u88AB\u5E26\u8D70\u95EE\u8BDD\uFF0C\u4F46\u5F88\u9057\u61BE\u7684\u662F\uFF0C\u4F60\u597D\u50CF\u627E\u9519\u4E86\u51F6\u624B\uFF0C\u771F\u76F8\u4ECD\u672A\u63ED\u5F00..."
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 95b2d2ee56b6ebd4da6964a0f0b9c0eb, type: 2}
-  m_sharedMaterial: {fileID: -3203181810466068694, guid: 95b2d2ee56b6ebd4da6964a0f0b9c0eb, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 4e6112d286c97ef4d9ed3ea60731843d, type: 2}
+  m_sharedMaterial: {fileID: 836735290543422590, guid: 4e6112d286c97ef4d9ed3ea60731843d, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4278190080
-  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
+    rgba: 4287993237
+  m_fontColor: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
