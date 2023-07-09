@@ -10,6 +10,12 @@ public class NPCClickToTalk : MonoBehaviour
     private NPCConversation m_NPCConversation;
     string ItemListTXT;
 
+    private void Awake()
+    {
+        ConversationManager.OnConversationStarted += readItems;
+        ConversationManager.OnConversationEnded += EndTalkWithNPC;
+    }
+
     private void Start()
     {
         m_NPCConversation = GetComponent<NPCConversation>();
@@ -24,12 +30,9 @@ public class NPCClickToTalk : MonoBehaviour
             ItemListTXT = File.ReadAllText(fileInfo.FullName);
         }
         else Debug.LogError($"No Item Save Exsit In {outPath}");
-
-        ConversationManager.OnConversationStarted += readItems;
-        ConversationManager.OnConversationEnded += EndTalkWithNPC;
     }
 
-    private void OnDisable()
+    private void OnDestroy()
     {
         ConversationManager.OnConversationStarted -= readItems;
         ConversationManager.OnConversationEnded -= EndTalkWithNPC;
