@@ -181,7 +181,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Back to Title
+  m_text: "\u8FD4\u56DE\u6807\u9898\u754C\u9762"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 4e6112d286c97ef4d9ed3ea60731843d, type: 2}
   m_sharedMaterial: {fileID: 836735290543422590, guid: 4e6112d286c97ef4d9ed3ea60731843d, type: 2}
@@ -826,9 +826,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: After your identification, the suspect was taken away for questioning,
-    but unfortunately, you seem to have found the wrong killer and the truth remains
-    to be revealed.
+  m_text: "\u5728\u4F60\u7684\u6307\u8BA4\u4E0B,\u5ACC\u7591\u4EBA\u88AB\u5E26\u8D70\u95EE\u8BDD\uFF0C\u4F46\u5F88\u9057\u61BE\u7684\u662F\uFF0C\u4F60\u597D\u50CF\u627E\u9519\u4E86\u51F6\u624B\uFF0C\u771F\u76F8\u4ECD\u672A\u63ED\u5F00..."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 4e6112d286c97ef4d9ed3ea60731843d, type: 2}
   m_sharedMaterial: {fileID: 836735290543422590, guid: 4e6112d286c97ef4d9ed3ea60731843d, type: 2}
