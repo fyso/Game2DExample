@@ -8280,7 +8280,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7dd21adac77c604ba54c236a932f700, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  CursorTex: {fileID: 2800000, guid: 51e6ce8279f86bb40983fa1e6a760771, type: 3}
+  CursorTex: {fileID: 2800000, guid: 5a6f84c557248624db43f6ab4f9af05c, type: 3}
+  OriCursorTex: {fileID: 2800000, guid: a685624d8913b494db1d7b6869a07623, type: 3}
   SmokeMasks: []
   Scenes:
   - {fileID: 137598184}

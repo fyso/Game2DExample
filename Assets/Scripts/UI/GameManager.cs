@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class GameManager : MySingleton<GameManager>
 {
-    public Texture2D CursorTex;
+    public Texture2D CursorTex,OriCursorTex;
     public List<GameObject> SmokeMasks;
 
     private int MaxClickNum = 15555;
