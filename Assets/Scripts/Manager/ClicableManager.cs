@@ -18,9 +18,15 @@ public class ClicableManager : MySingleton<ClicableManager>
         foreach (NPCClickToTalk npc in m_NPCTalks)
         {
             if(npc.NPCName == Name)
+            {
                 npc.gameObject.GetComponent<SpriteRenderer>().sortingOrder = 4;
+                npc.gameObject.SetActive(true);
+            }
             else
+            {
                 npc.gameObject.GetComponent<SpriteRenderer>().sortingOrder = 0;
+                npc.gameObject.SetActive(false);
+            }
         }
     }
 
@@ -30,6 +36,7 @@ public class ClicableManager : MySingleton<ClicableManager>
         foreach (NPCClickToTalk npc in m_NPCTalks)
         {
             npc.gameObject.GetComponent<SpriteRenderer>().sortingOrder = 2;
+            npc.gameObject.SetActive(true);
         }
     }
 }
