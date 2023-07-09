@@ -8,7 +8,7 @@ public class GameManager : MySingleton<GameManager>
     public Texture2D CursorTex,OriCursorTex;
     public List<GameObject> SmokeMasks;
 
-    private int MaxClickNum = 15555;
+    private int MaxClickNum = 2;
     private int ClickNum = 0;
     public List<GameObject> Scenes;
     private int currentSceneIndex = 0;
@@ -29,7 +29,7 @@ public class GameManager : MySingleton<GameManager>
         Scenes[currentSceneIndex].SetActive(false);
         Scenes[sceneIndex].SetActive(true);
         currentSceneIndex = sceneIndex;
-        ResetClickNum(3);
+        ResetClickNum(2);
     }
 
     //切换场景时调用
@@ -37,22 +37,23 @@ public class GameManager : MySingleton<GameManager>
     {
         MaxClickNum = maxClickNum;
         ClickNum = 0;
-        /*
+        
         foreach(GameObject obj in SmokeMasks)
         {
             obj.SetActive(false);
-        }*/
+        }
+        SmokeMasks[0].SetActive(true);
     }
     
     public bool TryClick()
     {
         if(ClickNum >= MaxClickNum) return false;
-        /*
+
+        //SmokeMasks[ClickNum].SetActive(false);
+        ClickNum++;
+
         if (ClickNum < SmokeMasks.Count) SmokeMasks[ClickNum].SetActive(true);
         else Debug.LogWarning("Somke Mask Wrong");
-        */
-
-        ClickNum++;
         return true;
     }
 
