@@ -5,6 +5,7 @@ using UnityEngine.EventSystems;
 
 public class PickButton : CoversationButton,IPointerEnterHandler,IPointerExitHandler
 {
+    public AudioClip AudioFile;
     [Header("ÎïÆ·Ãû³Æ")]
     public string ItemID;
     public override bool TryPlayConversation()
@@ -13,6 +14,10 @@ public class PickButton : CoversationButton,IPointerEnterHandler,IPointerExitHan
         {
             BagUI.instance.ShowItem(ItemID);
             gameObject.SetActive(false);
+            if (AudioFile != null)
+            {
+                GameManager.Instance.GetComponent<AudioSource>().PlayOneShot(AudioFile);
+            }
             return true;
         }
         return false;
