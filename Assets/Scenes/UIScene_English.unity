@@ -192,7 +192,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentIDCounter: 2
-  json: "{\"Options\":[],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[],\"EditorInfo\":{\"isRoot\":true,\"xPos\":456.5,\"yPos\":22},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u4EF7\u503C1000\u5143,\u5C0F\u5B69\u5B50\u4E0D\u61C2\u4E8B\u513F\u98DE\u7740\u73A9\u513F\u7684,\u5374\u65E0\u610F\u62CD\u5230\u4E86\u8521\u5764\u62FF\u7740\u836F\u74F6\u548C\u8299\u84C9\u738B\u9999\u70DF\u7684\u666F\u8C61\u3002\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"\u65E0\u4EBA\u673A\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0}]}"
+  json: '{"Options":[],"Parameters":[],"SpeechNodes":[{"Connections":[],"EditorInfo":{"isRoot":true,"xPos":456.5,"yPos":22},"ID":0,"ParamActions":[],"TMPFontGUID":null,"Text":"Worth
+    1000 yuan, it was being flown by a child for fun, but accidentally captured footage
+    of Cai Kun holding a medicine bottle and smoking FurongWan cigarettes.","parentUIDs":[],"AdvanceDialogueAutomatically":false,"AudioGUID":null,"AutoAdvanceShouldDisplayOption":false,"IconGUID":null,"Name":"Drone","OptionUIDs":null,"SpeechUID":0,"TimeUntilAdvance":0,"Volume":0}]}'
   saveVersion: 110
   DefaultName: 
   DefaultSprite: {fileID: 0}
@@ -342,7 +344,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentIDCounter: 1
-  json: "{\"Options\":[],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[],\"EditorInfo\":{\"isRoot\":true,\"xPos\":456.5,\"yPos\":22},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u88AB\u79F0\u4E3A\u5373\u4F7F\u4E16\u754C\u672B\u65E5\u4E86\u8BFA\u4E9A\u65B9\u821F\u90FD\u4F1A\u5E26\u4E0A\u7684\u7EDD\u4E16\u597D\u4E13\u8F91,\u751F\u6D3B\u5FC5\u9700\u54C1\u3002\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"\u4E13\u8F91\u300Azood\u300B\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0}]}"
+  json: '{"Options":[],"Parameters":[],"SpeechNodes":[{"Connections":[],"EditorInfo":{"isRoot":true,"xPos":456.5,"yPos":22},"ID":0,"ParamActions":[],"TMPFontGUID":null,"Text":"The
+    album \"Zood\" is considered an exceptional album that people would bring with
+    them even on Noah''s Ark if the world were to end. It is an essential item in
+    life.","parentUIDs":[],"AdvanceDialogueAutomatically":false,"AudioGUID":null,"AutoAdvanceShouldDisplayOption":false,"IconGUID":null,"Name":"The
+    album \"Zood.\"","OptionUIDs":null,"SpeechUID":0,"TimeUntilAdvance":0,"Volume":0}]}'
   saveVersion: 110
   DefaultName: 
   DefaultSprite: {fileID: 0}
@@ -518,7 +524,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentIDCounter: 2
-  json: "{\"Options\":[],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[],\"EditorInfo\":{\"isRoot\":true,\"xPos\":456.5,\"yPos\":22},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u91CC\u9762\u6709\u4E00\u4E9B\u5BF9\u8521\u5764\u548C\u5B59\u7B11\u4E09\u6D41\u91CF\u7684\u7814\u7A76\u62A5\u544A\uFF0C\u4E0A\u9762\u88AB\u5212\u4E86\u4E09\u9053\u7EA2\u7EBF\u3002\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"\u4E00\u4E2A\u4FE1\u5C01\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0}]}"
+  json: '{"Options":[],"Parameters":[],"SpeechNodes":[{"Connections":[],"EditorInfo":{"isRoot":true,"xPos":456.5,"yPos":22},"ID":0,"ParamActions":[],"TMPFontGUID":null,"Text":"There
+    is a research report on the traffic of Cai Kun and Sun Xiaosan inside, with three
+    red lines drawn on it.","parentUIDs":[],"AdvanceDialogueAutomatically":false,"AudioGUID":null,"AutoAdvanceShouldDisplayOption":false,"IconGUID":null,"Name":"An
+    Envelope","OptionUIDs":null,"SpeechUID":0,"TimeUntilAdvance":0,"Volume":0}]}'
   saveVersion: 110
   DefaultName: 
   DefaultSprite: {fileID: 0}
@@ -1292,7 +1301,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentIDCounter: 2
-  json: "{\"Options\":[],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[],\"EditorInfo\":{\"isRoot\":true,\"xPos\":507.5,\"yPos\":22},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u591A\u70B9\u4E00\u4E0B\u90FD\u4F1A\u7206\u70B8\u3002\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"\u4E13\u8F91\u300A\u53EA\u56E0\u4F60\u592A\u7F8E\u300B\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0}]}"
+  json: "{\"Options\":[],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[],\"EditorInfo\":{\"isRoot\":true,\"xPos\":455.5,\"yPos\":22},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"
+    Boom !! If you click it!!\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"\u300AJust
+    Because You're So Beautiful\u300B\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0}]}"
   saveVersion: 110
   DefaultName: 
   DefaultSprite: {fileID: 0}
@@ -1870,7 +1881,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentIDCounter: 2
-  json: "{\"Options\":[],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[],\"EditorInfo\":{\"isRoot\":true,\"xPos\":456.5,\"yPos\":22},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u53C8\u79F0\u6A31\u82B1,\u5B59\u7B11\u4E09\u8001\u5BB6\u7684\u56FD\u82B1\uFF0C\u4FDD\u5B58\u8FD8\u633A\u597D\u3002\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"\u6492\u5E93\u62C9\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0}]}"
+  json: '{"Options":[],"Parameters":[],"SpeechNodes":[{"Connections":[],"EditorInfo":{"isRoot":true,"xPos":456.5,"yPos":22},"ID":0,"ParamActions":[],"TMPFontGUID":null,"Text":"Also
+    known as cherry blossom, it is the national flower of Sun Xiaosan''s hometown
+    and is well-preserved.","parentUIDs":[],"AdvanceDialogueAutomatically":false,"AudioGUID":null,"AutoAdvanceShouldDisplayOption":false,"IconGUID":null,"Name":"Sakura:","OptionUIDs":null,"SpeechUID":0,"TimeUntilAdvance":0,"Volume":0}]}'
   saveVersion: 110
   DefaultName: 
   DefaultSprite: {fileID: 0}
@@ -2033,7 +2046,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentIDCounter: 2
-  json: "{\"Options\":[],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[],\"EditorInfo\":{\"isRoot\":true,\"xPos\":456.5,\"yPos\":22},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u8FD8\u5728\u718A\u718A\u71C3\u70E7\u7684\u7A97\u5E18\u6563\u53D1\u7740\u6D53\u91CD\u7684\u9152\u6C14,\u65C1\u8FB9\u5012\u7740\u534A\u74F6\u9152\u3002\u8FD9\u9152\u662F\u5B59\u7B11\u4E09\u4E3A\u4E86\u7ED9\u4E01\u632F\u5E86\u751F\u5E26\u6765\u7684,\u4F46\u5927\u4F19\u513F\u90FD\u4E0D\u6562\u559D,\u56E0\u4E3A\u5B59\u7B11\u4E09\u5BB6\u91CC\u662F\u5356\u5047\u9152\u7684\u3002\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"\u767D\u9152\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0}]}"
+  json: '{"Options":[],"Parameters":[],"SpeechNodes":[{"Connections":[],"EditorInfo":{"isRoot":true,"xPos":456.5,"yPos":22},"ID":0,"ParamActions":[],"TMPFontGUID":null,"Text":"The
+    curtains were still burning fiercely, emitting a strong smell of alcohol, and
+    there was a half-empty bottle of alcohol next to it. Sun Xiaosan brought the
+    alcohol to celebrate Ding zen''s birthday, but no one dared to drink it because
+    Sun Xiaosan''s family sells counterfeit alcohol.","parentUIDs":[],"AdvanceDialogueAutomatically":false,"AudioGUID":null,"AutoAdvanceShouldDisplayOption":false,"IconGUID":null,"Name":"Chinese
+    BaiJiu","OptionUIDs":null,"SpeechUID":0,"TimeUntilAdvance":0,"Volume":0}]}'
   saveVersion: 110
   DefaultName: 
   DefaultSprite: {fileID: 0}
@@ -3481,7 +3499,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentIDCounter: 1
-  json: "{\"Options\":[],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[],\"EditorInfo\":{\"isRoot\":true,\"xPos\":456.5,\"yPos\":22},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u4E01\u632F\u6700\u7231\u62BD\u7684\u54C1\u724C\u9999\u70DF,\u8FD9\u4E48\u591A\u5E74\u6765\u70DF\u763E\u53EA\u589E\u4E0D\u51CF\u3002\u597D\u50CF\u6709\u4E00\u4E9B\u2026\u2026\u7279\u6B8A\u7684\u5316\u5B66\u7269\u8D28\u3002\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"\u8299\u84C9\u738B\u9999\u70DF\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0}]}"
+  json: "{\"Options\":[],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[],\"EditorInfo\":{\"isRoot\":true,\"xPos\":456.5,\"yPos\":22},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Ding
+    zen's favorite brand of cigarettes to smoke is one that he has been addicted
+    to for many years and his addiction has only grown over time. There seems to
+    be some\u2026 special chemical substances in the cigarettes.\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"FurongWan
+    Cigarette\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0}]}"
   saveVersion: 110
   DefaultName: 
   DefaultSprite: {fileID: 0}
@@ -3912,7 +3934,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentIDCounter: 1
-  json: "{\"Options\":[],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[],\"EditorInfo\":{\"isRoot\":true,\"xPos\":456.5,\"yPos\":22},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u8521\u5764\u7684\u4F53\u68C0\u62A5\u544A,\u9274\u5B9A\u4E3A:\u7EAF\u7EAF\u7684\u5C3C\u53E4\u4E01\u8FC7\u654F\u3002\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"\u4F53\u68C0\u62A5\u544A\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0}]}"
+  json: '{"Options":[],"Parameters":[],"SpeechNodes":[{"Connections":[],"EditorInfo":{"isRoot":true,"xPos":456.5,"yPos":22},"ID":0,"ParamActions":[],"TMPFontGUID":null,"Text":"Cai
+    Kun''s health check report identifies him as having a pure nicotine allergy.","parentUIDs":[],"AdvanceDialogueAutomatically":false,"AudioGUID":null,"AutoAdvanceShouldDisplayOption":false,"IconGUID":null,"Name":"Health
+    Check Report","OptionUIDs":null,"SpeechUID":0,"TimeUntilAdvance":0,"Volume":0}]}'
   saveVersion: 110
   DefaultName: 
   DefaultSprite: {fileID: 0}
@@ -4599,7 +4623,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6116449485086562217, guid: d9fa78e8c3c4f2b4b8f7f77ca8426cca, type: 3}
       propertyPath: m_margin.z
-      value: -64.506615
+      value: -81.93105
       objectReference: {fileID: 0}
     - target: {fileID: 6116449485086562217, guid: d9fa78e8c3c4f2b4b8f7f77ca8426cca, type: 3}
       propertyPath: m_fontAsset
@@ -4651,7 +4675,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6449887092502888396, guid: d9fa78e8c3c4f2b4b8f7f77ca8426cca, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 573.9
+      value: 558
       objectReference: {fileID: 0}
     - target: {fileID: 6449887092502888396, guid: d9fa78e8c3c4f2b4b8f7f77ca8426cca, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -4796,7 +4820,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentIDCounter: 1
-  json: "{\"Options\":[],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[],\"EditorInfo\":{\"isRoot\":true,\"xPos\":456.5,\"yPos\":22},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u4E0D\u77E5\u9053\u591A\u5C11\u5E74\u524D\u56DB\u4E2A\u4EBA\u7684\u5408\u7167\uFF0C\u9664\u4E86\u4E01\u632F\u672C\u4EBA\u5176\u4ED6\u4EBA\u7684\u8138\u90FD\u88AB\u70E7\u6389\u4E86\uFF0C\u4ED6\u75AF\u4E86\u5427\u2026\u2026\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"\u5408\u7167\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0}]}"
+  json: "{\"Options\":[],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[],\"EditorInfo\":{\"isRoot\":true,\"xPos\":456.5,\"yPos\":22},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"A
+    group photo of four people from an unknown number of years ago, where the faces
+    of everyone in the picture, except for Ding zen, have been burnt off. Did this
+    drive him insane\u2026\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Group
+    Photo\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0}]}"
   saveVersion: 110
   DefaultName: 
   DefaultSprite: {fileID: 0}
@@ -5820,7 +5848,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentIDCounter: 1
-  json: "{\"Options\":[],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[],\"EditorInfo\":{\"isRoot\":true,\"xPos\":456.5,\"yPos\":22},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u4EF7\u503C1000\u5143,\u5C0F\u5B69\u5B50\u4E0D\u61C2\u4E8B\u513F\u98DE\u7740\u73A9\u513F\u7684,\u5374\u65E0\u610F\u62CD\u5230\u4E86\u8521\u5764\u62FF\u7740\u836F\u74F6\u548C\u8299\u84C9\u738B\u9999\u70DF\u7684\u666F\u8C61\u3002\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"\u65E0\u4EBA\u673A\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0}]}"
+  json: '{"Options":[],"Parameters":[],"SpeechNodes":[{"Connections":[],"EditorInfo":{"isRoot":true,"xPos":456.5,"yPos":22},"ID":0,"ParamActions":[],"TMPFontGUID":null,"Text":"Worth
+    1000 yuan, it was being flown by a child for fun, but accidentally captured footage
+    of Cai Kun holding a medicine bottle and smoking FurongWan cigarettes.","parentUIDs":[],"AdvanceDialogueAutomatically":false,"AudioGUID":null,"AutoAdvanceShouldDisplayOption":false,"IconGUID":null,"Name":"Drone","OptionUIDs":null,"SpeechUID":0,"TimeUntilAdvance":0,"Volume":0}]}'
   saveVersion: 110
   DefaultName: 
   DefaultSprite: {fileID: 0}
@@ -6219,7 +6249,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentIDCounter: 1
-  json: "{\"Options\":[],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[],\"EditorInfo\":{\"isRoot\":true,\"xPos\":456.5,\"yPos\":22},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u53C8\u79F0\u6A31\u82B1,\u5B59\u7B11\u4E09\u8001\u5BB6\u7684\u56FD\u82B1\uFF0C\u4FDD\u5B58\u8FD8\u633A\u597D\u3002\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"\u6492\u5E93\u62C9\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0}]}"
+  json: '{"Options":[],"Parameters":[],"SpeechNodes":[{"Connections":[],"EditorInfo":{"isRoot":true,"xPos":456.5,"yPos":22},"ID":0,"ParamActions":[],"TMPFontGUID":null,"Text":"Also
+    known as cherry blossom, it is the national flower of Sun Xiaosan''s hometown
+    and is well-preserved.","parentUIDs":[],"AdvanceDialogueAutomatically":false,"AudioGUID":null,"AutoAdvanceShouldDisplayOption":false,"IconGUID":null,"Name":"Sakura","OptionUIDs":null,"SpeechUID":0,"TimeUntilAdvance":0,"Volume":0}]}'
   saveVersion: 110
   DefaultName: 
   DefaultSprite: {fileID: 0}
@@ -7238,7 +7270,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentIDCounter: 2
-  json: "{\"Options\":[],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[],\"EditorInfo\":{\"isRoot\":true,\"xPos\":456.5,\"yPos\":22},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u7EB8\u6761\u4E0A\u767D\u7EB8\u9ED1\u5B57\u5199\u7740\u4E01\u632F\u6B20\u8521\u576410\u4E07\u5143\uFF0C\u7EB8\u5F20\u76B1\u76B1\u5DF4\u5DF4\uFF0C\u50CF\u88AB\u72E0\u72E0\u6525\u7D27\u8FC7\uFF0C\u4ECA\u5929\u5927\u559C\u65E5\u5B50\u4ED6\u600E\u4E48\u5E26\u8FD9\u4E1C\u897F\uFF1F\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"\u6B20\u6761\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0}]}"
+  json: '{"Options":[],"Parameters":[],"SpeechNodes":[{"Connections":[],"EditorInfo":{"isRoot":true,"xPos":456.5,"yPos":22},"ID":0,"ParamActions":[],"TMPFontGUID":null,"Text":"A
+    piece of paper with black writing on white paper indicating that Ding zen owes
+    Cai Kun 100,000 yuan. The paper is crumpled, as if it had been tightly squeezed
+    before. Why would he bring this on such a happy day?","parentUIDs":[],"AdvanceDialogueAutomatically":false,"AudioGUID":null,"AutoAdvanceShouldDisplayOption":false,"IconGUID":null,"Name":"IOU:","OptionUIDs":null,"SpeechUID":0,"TimeUntilAdvance":0,"Volume":0}]}'
   saveVersion: 110
   DefaultName: 
   DefaultSprite: {fileID: 0}
@@ -7439,7 +7474,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentIDCounter: 1
-  json: "{\"Options\":[],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[],\"EditorInfo\":{\"isRoot\":true,\"xPos\":456.5,\"yPos\":22},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u591A\u5E74\u524D\u6211\u521A\u79C1\u4EBA\u4FA6\u63A2\u51FA\u9053\uFF0C\u4E01\u632F\u96C7\u6211\u53BB\u8DDF\u8E2A\u4ED6\u8001\u5A46\uFF0C\u6CA1\u60F3\u5230\u7ADF\u7136\u62CD\u5230\u4E86\u4ED6\u8001\u5A46\u548C\u8521\u5764\u4E00\u8D77\u8D70\u51FA\u9152\u5E97\u2026\u2026\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"\u5077\u62CD\u7167\u7247\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0}]}"
+  json: "{\"Options\":[],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[],\"EditorInfo\":{\"isRoot\":true,\"xPos\":456.5,\"yPos\":22},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Years
+    ago, when I had just started my career as a private investigator, Ding zen hired
+    me to track his wife. To my surprise, I caught her on camera leaving a hotel
+    with Cai Kun\u2026\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"\u5077\u62CD\u7167\u7247\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0}]}"
   saveVersion: 110
   DefaultName: 
   DefaultSprite: {fileID: 0}
@@ -7776,7 +7814,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentIDCounter: 2
-  json: "{\"Options\":[],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[],\"EditorInfo\":{\"isRoot\":true,\"xPos\":456.5,\"yPos\":22},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u5B59\u7B11\u4E09\u5F53\u5E74\u7ED3\u5A5A\u4E01\u632F\u968F\u7684\u793C\uFF0C\u8FD8\u662F\u4ED6\u81EA\u5DF1\u5E97\u91CC\u5356\u5269\u4E0B\u7684\u70DF\u3002\u5927\u559C\u65E5\u5B50\u5C31\u968F\u6839\u513F\u70DF,\u771F\u591F\u5C0F\u6C14\u7684\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"\u9510\u523B5\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0}]}"
+  json: '{"Options":[],"Parameters":[],"SpeechNodes":[{"Connections":[],"EditorInfo":{"isRoot":true,"xPos":456.5,"yPos":22},"ID":0,"ParamActions":[],"TMPFontGUID":null,"Text":"It''s
+    unclear whether the gift Sun Xiaosan gave to Ding zen at his wedding was something
+    he brought along or just leftover cigarettes from his own shop. It''s stingy
+    to give just a single cigarette on such a joyous occasion","parentUIDs":[],"AdvanceDialogueAutomatically":false,"AudioGUID":null,"AutoAdvanceShouldDisplayOption":false,"IconGUID":null,"Name":"RELX
+    V","OptionUIDs":null,"SpeechUID":0,"TimeUntilAdvance":0,"Volume":0}]}'
   saveVersion: 110
   DefaultName: 
   DefaultSprite: {fileID: 0}
@@ -7963,7 +8005,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentIDCounter: 1
-  json: "{\"Options\":[],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[],\"EditorInfo\":{\"isRoot\":true,\"xPos\":456.5,\"yPos\":22},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u4E0D\u77E5\u9053\u591A\u5C11\u5E74\u524D\u56DB\u4E2A\u4EBA\u7684\u5408\u7167\uFF0C\u9664\u4E86\u4E01\u632F\u672C\u4EBA\u5176\u4ED6\u4EBA\u7684\u8138\u90FD\u88AB\u70E7\u6389\u4E86\uFF0C\u4ED6\u75AF\u4E86\u5427\u2026\u2026\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"\u5408\u7167\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0}]}"
+  json: "{\"Options\":[],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[],\"EditorInfo\":{\"isRoot\":true,\"xPos\":456.5,\"yPos\":22},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"A
+    group photo of four people from an unknown number of years ago, where the faces
+    of everyone in the picture, except for Ding zen, have been burnt off. Did this
+    drive him insane\u2026\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Group
+    Photo\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0}]}"
   saveVersion: 110
   DefaultName: 
   DefaultSprite: {fileID: 0}
@@ -8175,7 +8221,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentIDCounter: 1
-  json: "{\"Options\":[],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[],\"EditorInfo\":{\"isRoot\":true,\"xPos\":456.5,\"yPos\":22},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u591A\u5E74\u524D\u6211\u521A\u79C1\u4EBA\u4FA6\u63A2\u51FA\u9053\uFF0C\u4E01\u632F\u96C7\u6211\u53BB\u8DDF\u8E2A\u4ED6\u8001\u5A46\uFF0C\u6CA1\u60F3\u5230\u7ADF\u7136\u62CD\u5230\u4E86\u4ED6\u8001\u5A46\u548C\u8521\u5764\u4E00\u8D77\u8D70\u51FA\u9152\u5E97\u2026\u2026\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"\u5077\u62CD\u7167\u7247\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0}]}"
+  json: "{\"Options\":[],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[],\"EditorInfo\":{\"isRoot\":true,\"xPos\":456.5,\"yPos\":22},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Years
+    ago, when I had just started my career as a private investigator, Ding zen hired
+    me to track his wife. To my surprise, I caught her on camera leaving a hotel
+    with Cai Kun\u2026\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Photo\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0}]}"
   saveVersion: 110
   DefaultName: 
   DefaultSprite: {fileID: 0}
@@ -8911,7 +8960,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentIDCounter: 1
-  json: "{\"Options\":[],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[],\"EditorInfo\":{\"isRoot\":true,\"xPos\":456.5,\"yPos\":22},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u8FD8\u5728\u718A\u718A\u71C3\u70E7\u7684\u7A97\u5E18\u6563\u53D1\u7740\u6D53\u91CD\u7684\u9152\u6C14,\u65C1\u8FB9\u5012\u7740\u534A\u74F6\u9152\u3002\u8FD9\u9152\u662F\u5B59\u7B11\u4E09\u4E3A\u4E86\u7ED9\u4E01\u632F\u5E86\u751F\u5E26\u6765\u7684,\u4F46\u5927\u4F19\u513F\u90FD\u4E0D\u6562\u559D,\u56E0\u4E3A\u5B59\u7B11\u4E09\u5BB6\u91CC\u662F\u5356\u5047\u9152\u7684\u3002\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"\u767D\u9152\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0}]}"
+  json: '{"Options":[],"Parameters":[],"SpeechNodes":[{"Connections":[],"EditorInfo":{"isRoot":true,"xPos":456.5,"yPos":22},"ID":0,"ParamActions":[],"TMPFontGUID":null,"Text":"The
+    curtains were still burning fiercely, emitting a strong smell of alcohol, and
+    there was a half-empty bottle of alcohol next to it. Sun Xiaosan brought the
+    alcohol to celebrate Ding zen''s birthday, but no one dared to drink it because
+    Sun Xiaosan''s family sells counterfeit alcohol.","parentUIDs":[],"AdvanceDialogueAutomatically":false,"AudioGUID":null,"AutoAdvanceShouldDisplayOption":false,"IconGUID":null,"Name":"Chinese
+    BaiJiu","OptionUIDs":null,"SpeechUID":0,"TimeUntilAdvance":0,"Volume":0}]}'
   saveVersion: 110
   DefaultName: 
   DefaultSprite: {fileID: 0}
@@ -9410,7 +9464,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentIDCounter: 1
-  json: "{\"Options\":[],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[],\"EditorInfo\":{\"isRoot\":true,\"xPos\":456.5,\"yPos\":22},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u5B59\u7B11\u4E09\u672C\u6765\u60F3\u5305\u7ED9\u4E01\u632F\u7684\u7EA2\u5305,\u4F46\u8FDF\u8FDF\u6CA1\u7ED9\u51FA\u53BB,\u542C\u8BF4\u4ED6\u6700\u8FD1\u7F51\u604B\u4EA4\u4E86\u4E00\u4E2A\u5973\u670B\u53CB,\u4E0D\u77E5\u9053\u8DDF\u8FD9\u4E2A\u6709\u6CA1\u6709\u5173\u7CFB\u3002\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"8000\u5143\u7EA2\u5305\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0}]}"
+  json: '{"Options":[],"Parameters":[],"SpeechNodes":[{"Connections":[],"EditorInfo":{"isRoot":true,"xPos":456.5,"yPos":22},"ID":0,"ParamActions":[],"TMPFontGUID":null,"Text":"Sun
+    Xiaosan originally wanted to give Ding zen a red envelope, but he hasn''t given
+    it yet. It is rumored that Ding zen recently started a romantic relationship
+    online, but it''s unclear if this is related to the red envelope.","parentUIDs":[],"AdvanceDialogueAutomatically":false,"AudioGUID":null,"AutoAdvanceShouldDisplayOption":false,"IconGUID":null,"Name":"8000
+    yuan red envelope","OptionUIDs":null,"SpeechUID":0,"TimeUntilAdvance":0,"Volume":0}]}'
   saveVersion: 110
   DefaultName: 
   DefaultSprite: {fileID: 0}
@@ -10917,7 +10975,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentIDCounter: 1
-  json: "{\"Options\":[],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[],\"EditorInfo\":{\"isRoot\":true,\"xPos\":456.5,\"yPos\":22},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u5F53\u5E74\u5DF4\u9ECE\u5723\u6BCD\u9662\u4E0D\u5E78\u88AB\u5927\u706B\u6467\u6B8B,\u4E01\u632F\u8BF4\u662F\u5B59\u7B11\u4E09\u5E72\u7684,\u4ED6\u4E3A\u4E86\u81EA\u8BC1\u6E05\u767D\u62FF\u51FA\u4E86\u81EA\u5DF1\u73CD\u85CF\u591A\u5E74\u7684\u5DF4\u9ECE\u5723\u6BCD\u9662\u624B\u529E,\u4F46\u5982\u4ECA\u4ED6\u6240\u5728\u7684\u5730\u65B9\u53C8\u53D1\u751F\u5927\u706B......\u7EB3\u5C3C?!\u60C5\u62A5\u662F\u771F\u7684??\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"\u5DF4\u9ECE\u5723\u6BCD\u9662\u624B\u529E\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0}]}"
+  json: "{\"Options\":[],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[],\"EditorInfo\":{\"isRoot\":true,\"xPos\":456.5,\"yPos\":22},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"When
+    the Notre Dame de Paris was tragically burned down, Ding zen claimed that Sun
+    Xiaosan was responsible. In order to prove his innocence, he showed his treasured
+    Notre Dame de Paris figurine that he had collected for many years. However, now
+    the place where he is has also caught fire\u2026 What?! Is the information true?!\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Notre
+    Dame de Paris figurine\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0}]}"
   saveVersion: 110
   DefaultName: 
   DefaultSprite: {fileID: 0}
@@ -11883,7 +11946,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentIDCounter: 2
-  json: "{\"Options\":[],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[],\"EditorInfo\":{\"isRoot\":true,\"xPos\":456.5,\"yPos\":22},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u5B59\u7B11\u4E09\u672C\u6765\u60F3\u5305\u7ED9\u4E01\u632F\u7684\u7EA2\u5305,\u4F46\u8FDF\u8FDF\u6CA1\u7ED9\u51FA\u53BB,\u542C\u8BF4\u4ED6\u6700\u8FD1\u7F51\u604B\u4EA4\u4E86\u4E00\u4E2A\u5973\u670B\u53CB,\u4E0D\u77E5\u9053\u8DDF\u8FD9\u4E2A\u6709\u6CA1\u6709\u5173\u7CFB\u3002\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"8000\u5143\u7EA2\u5305\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0}]}"
+  json: '{"Options":[],"Parameters":[],"SpeechNodes":[{"Connections":[],"EditorInfo":{"isRoot":true,"xPos":456.5,"yPos":22},"ID":0,"ParamActions":[],"TMPFontGUID":null,"Text":"Sun
+    Xiaosan originally wanted to give Ding zen a red envelope, but he hasn''t given
+    it yet. It is rumored that Ding zen recently started a romantic relationship
+    online, but it''s unclear if this is related to the red envelope.","parentUIDs":[],"AdvanceDialogueAutomatically":false,"AudioGUID":null,"AutoAdvanceShouldDisplayOption":false,"IconGUID":null,"Name":"8000
+    yuan red envelope","OptionUIDs":null,"SpeechUID":0,"TimeUntilAdvance":0,"Volume":0}]}'
   saveVersion: 110
   DefaultName: 
   DefaultSprite: {fileID: 0}
@@ -12121,7 +12188,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentIDCounter: 1
-  json: "{\"Options\":[],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[],\"EditorInfo\":{\"isRoot\":true,\"xPos\":456.5,\"yPos\":22},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u7EB8\u6761\u4E0A\u767D\u7EB8\u9ED1\u5B57\u5199\u7740\u4E01\u632F\u6B20\u8521\u576410\u4E07\u5143\uFF0C\u7EB8\u5F20\u76B1\u76B1\u5DF4\u5DF4\uFF0C\u50CF\u88AB\u72E0\u72E0\u6525\u7D27\u8FC7\uFF0C\u4ECA\u5929\u5927\u559C\u65E5\u5B50\u4ED6\u600E\u4E48\u5E26\u8FD9\u4E1C\u897F\uFF1F\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"\u6B20\u6761\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0}]}"
+  json: '{"Options":[],"Parameters":[],"SpeechNodes":[{"Connections":[],"EditorInfo":{"isRoot":true,"xPos":456.5,"yPos":22},"ID":0,"ParamActions":[],"TMPFontGUID":null,"Text":"A
+    piece of paper with black writing on white paper indicating that Ding zen owes
+    Cai Kun 100,000 yuan. The paper is crumpled, as if it had been tightly squeezed
+    before. Why would he bring this on such a happy day?","parentUIDs":[],"AdvanceDialogueAutomatically":false,"AudioGUID":null,"AutoAdvanceShouldDisplayOption":false,"IconGUID":null,"Name":"IOU","OptionUIDs":null,"SpeechUID":0,"TimeUntilAdvance":0,"Volume":0}]}'
   saveVersion: 110
   DefaultName: 
   DefaultSprite: {fileID: 0}
@@ -12245,7 +12315,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentIDCounter: 1
-  json: "{\"Options\":[],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[],\"EditorInfo\":{\"isRoot\":true,\"xPos\":456.5,\"yPos\":22},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u5B59\u7B11\u4E09\u5E26\u6765\u7684\u751F\u65E5\u8721\u70DB,\u603B\u5171\u5C31\u53EA\u670910\u6839,\u4E0D\u77E5\u9053\u662F\u6545\u610F\u7684\u8FD8\u662F\u4E0D\u5C0F\u5FC3\u7684\u3002\u8FD8\u6CA1\u7B49\u4E01\u632F\u5439\u706D\u5C31\u88AB\u5927\u706B\u541E\u566C\u4E86\u3002\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"\u71C3\u5C3D\u7684\u8721\u70DB\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0}]}"
+  json: '{"Options":[],"Parameters":[],"SpeechNodes":[{"Connections":[],"EditorInfo":{"isRoot":true,"xPos":456.5,"yPos":22},"ID":0,"ParamActions":[],"TMPFontGUID":null,"Text":"Sun
+    Xiaosan brought only 10 birthday candles, and it''s unclear whether it was intentional
+    or accidental. Before Ding zen could blow them out, they were engulfed by the
+    flames","parentUIDs":[],"AdvanceDialogueAutomatically":false,"AudioGUID":null,"AutoAdvanceShouldDisplayOption":false,"IconGUID":null,"Name":"The
+    burnt-out candle","OptionUIDs":null,"SpeechUID":0,"TimeUntilAdvance":0,"Volume":0}]}'
   saveVersion: 110
   DefaultName: 
   DefaultSprite: {fileID: 0}
@@ -12672,7 +12746,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentIDCounter: 2
-  json: "{\"Options\":[],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[],\"EditorInfo\":{\"isRoot\":true,\"xPos\":456.5,\"yPos\":22},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u4E01\u632F\u6700\u7231\u62BD\u7684\u54C1\u724C\u9999\u70DF,\u8FD9\u4E48\u591A\u5E74\u6765\u70DF\u763E\u53EA\u589E\u4E0D\u51CF\u3002\u597D\u50CF\u6709\u4E00\u4E9B\u2026\u2026\u7279\u6B8A\u7684\u5316\u5B66\u7269\u8D28\u3002\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"\u8299\u84C9\u738B\u9999\u70DF\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0}]}"
+  json: "{\"Options\":[],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[],\"EditorInfo\":{\"isRoot\":true,\"xPos\":456.5,\"yPos\":22},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Ding
+    zen's favorite brand of cigarettes to smoke is one that he has been addicted
+    to for many years and his addiction has only grown over time. There seems to
+    be some\u2026 special chemical substances in the cigarettes.\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"FurongWan
+    Cigarette\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0}]}"
   saveVersion: 110
   DefaultName: 
   DefaultSprite: {fileID: 0}
@@ -12910,7 +12988,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentIDCounter: 1
-  json: "{\"Options\":[],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[],\"EditorInfo\":{\"isRoot\":true,\"xPos\":456.5,\"yPos\":22},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u91CC\u9762\u6709\u4E00\u4E9B\u5BF9\u8521\u5764\u548C\u5B59\u7B11\u4E09\u6D41\u91CF\u7684\u7814\u7A76\u62A5\u544A\uFF0C\u4E0A\u9762\u88AB\u5212\u4E86\u4E09\u9053\u7EA2\u7EBF\u3002\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"\u4E00\u4E2A\u4FE1\u5C01\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0}]}"
+  json: '{"Options":[],"Parameters":[],"SpeechNodes":[{"Connections":[],"EditorInfo":{"isRoot":true,"xPos":456.5,"yPos":22},"ID":0,"ParamActions":[],"TMPFontGUID":null,"Text":"There
+    is a research report on the traffic of Cai Kun and Sun Xiaosan inside, with three
+    red lines drawn on it.","parentUIDs":[],"AdvanceDialogueAutomatically":false,"AudioGUID":null,"AutoAdvanceShouldDisplayOption":false,"IconGUID":null,"Name":"An
+    Envelope","OptionUIDs":null,"SpeechUID":0,"TimeUntilAdvance":0,"Volume":0}]}'
   saveVersion: 110
   DefaultName: 
   DefaultSprite: {fileID: 0}
@@ -13047,7 +13128,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentIDCounter: 2
-  json: "{\"Options\":[],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[],\"EditorInfo\":{\"isRoot\":true,\"xPos\":456.5,\"yPos\":22},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u5F53\u5E74\u5DF4\u9ECE\u5723\u6BCD\u9662\u4E0D\u5E78\u88AB\u5927\u706B\u6467\u6B8B,\u4E01\u632F\u8BF4\u662F\u5B59\u7B11\u4E09\u5E72\u7684,\u4ED6\u4E3A\u4E86\u81EA\u8BC1\u6E05\u767D\u62FF\u51FA\u4E86\u81EA\u5DF1\u73CD\u85CF\u591A\u5E74\u7684\u5DF4\u9ECE\u5723\u6BCD\u9662\u624B\u529E,\u4F46\u5982\u4ECA\u4ED6\u6240\u5728\u7684\u5730\u65B9\u53C8\u53D1\u751F\u5927\u706B......\u7EB3\u5C3C?!\u60C5\u62A5\u662F\u771F\u7684??\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"\u5DF4\u9ECE\u5723\u6BCD\u9662\u624B\u529E\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0}]}"
+  json: "{\"Options\":[],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[],\"EditorInfo\":{\"isRoot\":true,\"xPos\":456.5,\"yPos\":22},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"When
+    the Notre Dame de Paris was tragically burned down, Ding zen claimed that Sun
+    Xiaosan was responsible. In order to prove his innocence, he showed his treasured
+    Notre Dame de Paris figurine that he had collected for many years. However, now
+    the place where he is has also caught fire\u2026 What?! Is the information true?!\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Notre
+    Dame de Paris figurine:\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0}]}"
   saveVersion: 110
   DefaultName: 
   DefaultSprite: {fileID: 0}
@@ -13279,7 +13365,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentIDCounter: 1
-  json: "{\"Options\":[],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[],\"EditorInfo\":{\"isRoot\":true,\"xPos\":456.5,\"yPos\":22},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u5F53\u5E74\u5E7F\u4E3A\u4EBA\u77E5\u7684\u8521\u5764\u7684\u540A\u5E26\u88E4\u7684\u4E00\u90E8\u5206,\u9760\u4E00\u624B\u8001\u80A9\u5DE8\u6ED1\u706B\u7206\u5A31\u4E50\u5708,\u5982\u4ECA\u5373\u4F7F\u843D\u5165\u5927\u706B\u4E5F\u80FD\u6BEB\u53D1\u65E0\u4F24,\u96BE\u9053\u4ED6\u771F\u7684\u662F\u5929\u624D?!\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"\u767D\u8272\u540A\u5E26\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0}]}"
+  json: '{"Options":[],"Parameters":[],"SpeechNodes":[{"Connections":[],"EditorInfo":{"isRoot":true,"xPos":456.5,"yPos":22},"ID":0,"ParamActions":[],"TMPFontGUID":null,"Text":"A
+    part of Cai Kun''s well-known overalls, which were really slippery on his shoulder,
+    helped him rise to fame in the entertainment filed. Even if they fell into a
+    fire now, they would remain unscathed. Is he really a genius?!","parentUIDs":[],"AdvanceDialogueAutomatically":false,"AudioGUID":null,"AutoAdvanceShouldDisplayOption":false,"IconGUID":null,"Name":"White
+    overalls:","OptionUIDs":null,"SpeechUID":0,"TimeUntilAdvance":0,"Volume":0}]}'
   saveVersion: 110
   DefaultName: 
   DefaultSprite: {fileID: 0}
@@ -14004,7 +14094,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentIDCounter: 2
-  json: "{\"Options\":[],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[],\"EditorInfo\":{\"isRoot\":true,\"xPos\":456.5,\"yPos\":22},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u8521\u5764\u7684\u4F53\u68C0\u62A5\u544A,\u9274\u5B9A\u4E3A:\u7EAF\u7EAF\u7684\u5C3C\u53E4\u4E01\u8FC7\u654F\u3002\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"\u4F53\u68C0\u62A5\u544A\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0}]}"
+  json: '{"Options":[],"Parameters":[],"SpeechNodes":[{"Connections":[],"EditorInfo":{"isRoot":true,"xPos":456.5,"yPos":22},"ID":0,"ParamActions":[],"TMPFontGUID":null,"Text":"Cai
+    Kun''s health check report identifies him as having a pure nicotine allergy.","parentUIDs":[],"AdvanceDialogueAutomatically":false,"AudioGUID":null,"AutoAdvanceShouldDisplayOption":false,"IconGUID":null,"Name":"Health
+    Check Report","OptionUIDs":null,"SpeechUID":0,"TimeUntilAdvance":0,"Volume":0}]}'
   saveVersion: 110
   DefaultName: 
   DefaultSprite: {fileID: 0}
@@ -14422,7 +14514,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentIDCounter: 1
-  json: "{\"Options\":[],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[],\"EditorInfo\":{\"isRoot\":true,\"xPos\":456.5,\"yPos\":22},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u5F53\u5E74\u5E7F\u4E3A\u4EBA\u77E5\u7684\u8521\u5764\u7684\u540A\u5E26\u88E4\u7684\u4E00\u90E8\u5206,\u9760\u4E00\u624B\u8001\u80A9\u5DE8\u6ED1\u706B\u7206\u5A31\u4E50\u5708,\u5982\u4ECA\u5373\u4F7F\u843D\u5165\u5927\u706B\u4E5F\u80FD\u6BEB\u53D1\u65E0\u4F24,\u96BE\u9053\u4ED6\u771F\u7684\u662F\u5929\u624D?!\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"\u767D\u8272\u540A\u5E26\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0}]}"
+  json: '{"Options":[],"Parameters":[],"SpeechNodes":[{"Connections":[],"EditorInfo":{"isRoot":true,"xPos":456.5,"yPos":22},"ID":0,"ParamActions":[],"TMPFontGUID":null,"Text":"A
+    part of Cai Kun''s well-known overalls, which were really slippery on his shoulder,
+    helped him rise to fame in the entertainment filed. Even if they fell into a
+    fire now, they would remain unscathed. Is he really a genius?!","parentUIDs":[],"AdvanceDialogueAutomatically":false,"AudioGUID":null,"AutoAdvanceShouldDisplayOption":false,"IconGUID":null,"Name":"White
+    overalls","OptionUIDs":null,"SpeechUID":0,"TimeUntilAdvance":0,"Volume":0}]}'
   saveVersion: 110
   DefaultName: 
   DefaultSprite: {fileID: 0}
@@ -14559,7 +14655,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentIDCounter: 2
-  json: "{\"Options\":[],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[],\"EditorInfo\":{\"isRoot\":true,\"xPos\":507.5,\"yPos\":22},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u91CC\u9762\u88C5\u7684\u4F3C\u4E4E\u662F\u67D0\u79CD\u5316\u5B66\u7269\u8D28\uFF0C\u800C\u4E14\u8FD9\u5468\u56F4\u7684\u706B\u7130\u71C3\u70E7\u5F97\u683C\u5916\u5267\u70C8\u3002\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"\u4E00\u4E2A\u836F\u74F6\uFF1A\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0}]}"
+  json: '{"Options":[],"Parameters":[],"SpeechNodes":[{"Connections":[],"EditorInfo":{"isRoot":true,"xPos":456.5,"yPos":22},"ID":0,"ParamActions":[],"TMPFontGUID":null,"Text":"It
+    seems to contain some kind of chemical substance, and the flames around it are
+    burning particularly intensely.","parentUIDs":[],"AdvanceDialogueAutomatically":false,"AudioGUID":null,"AutoAdvanceShouldDisplayOption":false,"IconGUID":null,"Name":"Medicine
+    Bottle","OptionUIDs":null,"SpeechUID":0,"TimeUntilAdvance":0,"Volume":0}]}'
   saveVersion: 110
   DefaultName: 
   DefaultSprite: {fileID: 0}
@@ -15897,7 +15996,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentIDCounter: 2
-  json: "{\"Options\":[],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[],\"EditorInfo\":{\"isRoot\":true,\"xPos\":780.5,\"yPos\":99},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u5341\u5E74\u524D\u4E01\u632F\u9001\u7ED9\u8521\u5764\u7684\u793C\u7269,\u8521\u5764\u8D70\u5230\u54EA\u91CC\u90FD\u4F1A\u5E26\u7740,\u4ED6\u5E76\u4E0D\u662F\u559C\u6B22\u8FD9\u73A9\u5177,\u53EA\u662F\u5F88\u559C\u6B22\u634F\u4E0B\u5B83\u90A3\u4E00\u523B\u53D1\u51FA\u7684\u5C16\u53EB\u2014\u2014\u975E\u5E38\u89E3\u6068\u3002\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"\u5C16\u53EB\u9E21\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0}]}"
+  json: '{"Options":[],"Parameters":[],"SpeechNodes":[{"Connections":[],"EditorInfo":{"isRoot":true,"xPos":456.5,"yPos":22},"ID":0,"ParamActions":[],"TMPFontGUID":null,"Text":"A
+    gift that Ding zen gave to Cai Kun ten years ago, and Cai Kun has been carrying
+    it with him wherever he goes. He doesn''t actually like the toy, but he loves
+    the feeling of relief when he squeezes it and it emits a loud scream.","parentUIDs":[],"AdvanceDialogueAutomatically":false,"AudioGUID":null,"AutoAdvanceShouldDisplayOption":false,"IconGUID":null,"Name":"Screaming
+    Chicken","OptionUIDs":null,"SpeechUID":0,"TimeUntilAdvance":0,"Volume":0}]}'
   saveVersion: 110
   DefaultName: 
   DefaultSprite: {fileID: 0}
@@ -16080,7 +16183,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentIDCounter: 1
-  json: "{\"Options\":[],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[],\"EditorInfo\":{\"isRoot\":true,\"xPos\":456.5,\"yPos\":22},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u88AB\u79F0\u4E3A\u5373\u4F7F\u4E16\u754C\u672B\u65E5\u4E86\u8BFA\u4E9A\u65B9\u821F\u90FD\u4F1A\u5E26\u4E0A\u7684\u7EDD\u4E16\u597D\u4E13\u8F91,\u751F\u6D3B\u5FC5\u9700\u54C1\u3002\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"\u4E13\u8F91\u300Azood\u300B\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0}]}"
+  json: '{"Options":[],"Parameters":[],"SpeechNodes":[{"Connections":[],"EditorInfo":{"isRoot":true,"xPos":456.5,"yPos":22},"ID":0,"ParamActions":[],"TMPFontGUID":null,"Text":"The
+    album \"Zood\" is considered an exceptional album that people would bring with
+    them even on Noah''s Ark if the world were to end. It is an essential item in
+    life.","parentUIDs":[],"AdvanceDialogueAutomatically":false,"AudioGUID":null,"AutoAdvanceShouldDisplayOption":false,"IconGUID":null,"Name":"The
+    album \"Zood.\"","OptionUIDs":null,"SpeechUID":0,"TimeUntilAdvance":0,"Volume":0}]}'
   saveVersion: 110
   DefaultName: 
   DefaultSprite: {fileID: 0}
@@ -17222,7 +17329,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentIDCounter: 1
-  json: "{\"Options\":[],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[],\"EditorInfo\":{\"isRoot\":true,\"xPos\":456.5,\"yPos\":22},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u5B59\u7B11\u4E09\u5F53\u5E74\u7ED3\u5A5A\u4E01\u632F\u968F\u7684\u793C\uFF0C\u8FD8\u662F\u4ED6\u81EA\u5DF1\u5E97\u91CC\u5356\u5269\u4E0B\u7684\u70DF\u3002\u5927\u559C\u65E5\u5B50\u5C31\u968F\u6839\u513F\u70DF,\u771F\u591F\u5C0F\u6C14\u7684\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"\u9510\u523B5\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0}]}"
+  json: '{"Options":[],"Parameters":[],"SpeechNodes":[{"Connections":[],"EditorInfo":{"isRoot":true,"xPos":456.5,"yPos":22},"ID":0,"ParamActions":[],"TMPFontGUID":null,"Text":"It''s
+    unclear whether the gift Sun Xiaosan gave to Ding zen at his wedding was something
+    he brought along or just leftover cigarettes from his own shop. It''s stingy
+    to give just a single cigarette on such a joyous occasion","parentUIDs":[],"AdvanceDialogueAutomatically":false,"AudioGUID":null,"AutoAdvanceShouldDisplayOption":false,"IconGUID":null,"Name":"RELX
+    V","OptionUIDs":null,"SpeechUID":0,"TimeUntilAdvance":0,"Volume":0}]}'
   saveVersion: 110
   DefaultName: 
   DefaultSprite: {fileID: 0}
@@ -17427,7 +17538,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentIDCounter: 1
-  json: "{\"Options\":[],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[],\"EditorInfo\":{\"isRoot\":true,\"xPos\":456.5,\"yPos\":22},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u5B59\u7B11\u4E09\u5E26\u6765\u7684\u751F\u65E5\u8721\u70DB,\u603B\u5171\u5C31\u53EA\u670910\u6839,\u4E0D\u77E5\u9053\u662F\u6545\u610F\u7684\u8FD8\u662F\u4E0D\u5C0F\u5FC3\u7684\u3002\u8FD8\u6CA1\u7B49\u4E01\u632F\u5439\u706D\u5C31\u88AB\u5927\u706B\u541E\u566C\u4E86\u3002\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"\u71C3\u5C3D\u7684\u8721\u70DB\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0}]}"
+  json: '{"Options":[],"Parameters":[],"SpeechNodes":[{"Connections":[],"EditorInfo":{"isRoot":true,"xPos":456.5,"yPos":22},"ID":0,"ParamActions":[],"TMPFontGUID":null,"Text":"Sun
+    Xiaosan brought only 10 birthday candles, and it''s unclear whether it was intentional
+    or accidental. Before Ding zen could blow them out, they were engulfed by the
+    flames","parentUIDs":[],"AdvanceDialogueAutomatically":false,"AudioGUID":null,"AutoAdvanceShouldDisplayOption":false,"IconGUID":null,"Name":"The
+    burnt-out candle","OptionUIDs":null,"SpeechUID":0,"TimeUntilAdvance":0,"Volume":0}]}'
   saveVersion: 110
   DefaultName: 
   DefaultSprite: {fileID: 0}
@@ -17588,7 +17703,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentIDCounter: 1
-  json: "{\"Options\":[],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[],\"EditorInfo\":{\"isRoot\":true,\"xPos\":456.5,\"yPos\":22},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u591A\u70B9\u4E00\u4E0B\u90FD\u4F1A\u7206\u70B8\u3002\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"\u4E13\u8F91\u300A\u53EA\u56E0\u4F60\u592A\u7F8E\u300B\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0}]}"
+  json: "{\"Options\":[],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[],\"EditorInfo\":{\"isRoot\":true,\"xPos\":456.5,\"yPos\":22},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Boom
+    !! If you click it!!\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"\u300AJust
+    Because You're So Beautiful\u300B\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0}]}"
   saveVersion: 110
   DefaultName: 
   DefaultSprite: {fileID: 0}
@@ -17749,7 +17866,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentIDCounter: 1
-  json: "{\"Options\":[],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[],\"EditorInfo\":{\"isRoot\":true,\"xPos\":456.5,\"yPos\":22},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u91CC\u9762\u88C5\u7684\u4F3C\u4E4E\u662F\u67D0\u79CD\u5316\u5B66\u7269\u8D28\uFF0C\u800C\u4E14\u8FD9\u5468\u56F4\u7684\u706B\u7130\u71C3\u70E7\u5F97\u683C\u5916\u5267\u70C8\u3002\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"\u4E00\u4E2A\u836F\u74F6\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0}]}"
+  json: '{"Options":[],"Parameters":[],"SpeechNodes":[{"Connections":[],"EditorInfo":{"isRoot":true,"xPos":456.5,"yPos":22},"ID":0,"ParamActions":[],"TMPFontGUID":null,"Text":"It
+    seems to contain some kind of chemical substance, and the flames around it are
+    burning particularly intensely.","parentUIDs":[],"AdvanceDialogueAutomatically":false,"AudioGUID":null,"AutoAdvanceShouldDisplayOption":false,"IconGUID":null,"Name":"Medicine
+    Bottle","OptionUIDs":null,"SpeechUID":0,"TimeUntilAdvance":0,"Volume":0}]}'
   saveVersion: 110
   DefaultName: 
   DefaultSprite: {fileID: 0}
@@ -17842,7 +17962,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentIDCounter: 1
-  json: "{\"Options\":[],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[],\"EditorInfo\":{\"isRoot\":true,\"xPos\":456.5,\"yPos\":22},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"\u5341\u5E74\u524D\u4E01\u632F\u9001\u7ED9\u8521\u5764\u7684\u793C\u7269,\u8521\u5764\u8D70\u5230\u54EA\u91CC\u90FD\u4F1A\u5E26\u7740,\u4ED6\u5E76\u4E0D\u662F\u559C\u6B22\u8FD9\u73A9\u5177,\u53EA\u662F\u5F88\u559C\u6B22\u634F\u4E0B\u5B83\u90A3\u4E00\u523B\u53D1\u51FA\u7684\u5C16\u53EB\u2014\u2014\u975E\u5E38\u89E3\u6068\u3002\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"\u5C16\u53EB\u9E21\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0}]}"
+  json: '{"Options":[],"Parameters":[],"SpeechNodes":[{"Connections":[],"EditorInfo":{"isRoot":true,"xPos":456.5,"yPos":22},"ID":0,"ParamActions":[],"TMPFontGUID":null,"Text":"A
+    gift that Ding zen gave to Cai Kun ten years ago, and Cai Kun has been carrying
+    it with him wherever he goes. He doesn''t actually like the toy, but he loves
+    the feeling of relief when he squeezes it and it emits a loud scream.","parentUIDs":[],"AdvanceDialogueAutomatically":false,"AudioGUID":null,"AutoAdvanceShouldDisplayOption":false,"IconGUID":null,"Name":"Screaming
+    Chicken","OptionUIDs":null,"SpeechUID":0,"TimeUntilAdvance":0,"Volume":0}]}'
   saveVersion: 110
   DefaultName: 
   DefaultSprite: {fileID: 0}
