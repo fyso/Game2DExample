@@ -64,18 +64,18 @@ public class BagUI : MonoBehaviour
         foreach(var item in ItemIDs)
         {
             stringBuilder.Append(item.ToString());
-            stringBuilder.Append('\n');
+            stringBuilder.Append(' ');
         }
         string outPath = Application.streamingAssetsPath;
         if (!Directory.Exists(outPath))
         {
             Directory.CreateDirectory(outPath);
         }
-        Debug.Log($"BagItemInfo Out: {outPath} {File.Exists(outPath)}");
+        //Debug.Log($"BagItemInfo Out: {outPath} {File.Exists(outPath)}");
 
 
         outPath += "/ItemInfo.txt";
-        Debug.Log($"BagItemInfo Out: {outPath}");
+        //Debug.Log($"BagItemInfo Out: {outPath}");
         FileInfo fileInfo = new FileInfo(outPath);
 
         if(!fileInfo.Exists)
