@@ -29,6 +29,12 @@ public class NPCClickToTalk : MonoBehaviour
         ConversationManager.OnConversationEnded += EndTalkWithNPC;
     }
 
+    private void OnDisable()
+    {
+        ConversationManager.OnConversationStarted -= readItems;
+        ConversationManager.OnConversationEnded -= EndTalkWithNPC;
+    }
+
     private void OnMouseOver()
     {
         if (Input.GetMouseButtonDown(0))
