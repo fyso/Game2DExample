@@ -24,6 +24,9 @@ public class NPCClickToTalk : MonoBehaviour
             ItemListTXT = File.ReadAllText(fileInfo.FullName);
         }
         else Debug.LogError($"No Item Save Exsit In {outPath}");
+
+        ConversationManager.OnConversationStarted += readItems;
+        ConversationManager.OnConversationEnded += EndTalkWithNPC;
     }
 
     private void OnMouseOver()
@@ -33,12 +36,20 @@ public class NPCClickToTalk : MonoBehaviour
             ClicableManager.Instance.TalkOneNPC(NPCName);
 
             ConversationManager.Instance.StartConversation(m_NPCConversation);
-
-            string[] Items = ItemListTXT.Split('\n');
-            foreach (var item in Items)
-            {
-                ConversationManager.Instance.SetBool(item, true);
-            }
+            
         }
+    }
+
+    public void readItems()
+    {
+        string[] Items = ItemListTXT.Split(' ');
+        foreach (var item in Items)
+        {
+            ConversationManager.Instance.SetBool(item, true);
+        }
+    }
+    public void EndTalkWithNPC()
+    {
+        ClicableManager.Instance.EndTalkWithNPC();
     }
 }
