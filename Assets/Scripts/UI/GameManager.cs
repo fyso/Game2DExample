@@ -28,6 +28,7 @@ public class GameManager : MySingleton<GameManager>
         }
         Scenes[currentSceneIndex].SetActive(false);
         Scenes[sceneIndex].SetActive(true);
+        currentSceneIndex = sceneIndex;
         ResetClickNum(3);
     }
 
