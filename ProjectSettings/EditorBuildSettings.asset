@@ -26,4 +26,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Ending/NormalEnding.unity
     guid: d564d5f134bcb804aa7f10640e5adab5
+  - enabled: 1
+    path: Assets/Scenes/NoReaction.unity
+    guid: 49849f0876a998645a7505b6643ea9a5
+  - enabled: 1
+    path: Assets/Scenes/CG.unity
+    guid: 7228c4de4cd092344a178f7df0e529f0
   m_configObjects: {}
