@@ -42,7 +42,7 @@ public class NPCClickToTalk : MonoBehaviour
 
     public void readItems()
     {
-        string[] Items = ItemListTXT.Split(' ');
+        string[] Items = ItemListTXT.Replace("\r"," ").Replace("\n", " ").Split(' ');
         foreach (var item in Items)
         {
             ConversationManager.Instance.SetBool(item, true);
