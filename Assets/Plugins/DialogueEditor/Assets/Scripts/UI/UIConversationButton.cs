@@ -224,6 +224,10 @@ namespace DialogueEditor
                     ConversationManager.Instance.EndButtonSelected();
                     break;
             }
+
+            var au = GetComponent<AudioSource>();
+            if (au != null) au.Play();
+            
         }
 
 
