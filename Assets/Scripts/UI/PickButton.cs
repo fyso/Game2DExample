@@ -25,7 +25,7 @@ public class PickButton : CoversationButton,IPointerEnterHandler,IPointerExitHan
         if (hasMouseChange)
         {
             hasMouseChange = false;
-            Cursor.SetCursor(null, Vector2.zero, CursorMode.Auto);
+            Cursor.SetCursor(GameManager.Instance.OriCursorTex, Vector2.zero, CursorMode.Auto);
         }
     }
 
@@ -38,6 +38,6 @@ public class PickButton : CoversationButton,IPointerEnterHandler,IPointerExitHan
     public void OnPointerExit(PointerEventData eventData)
     {
         hasMouseChange = false;
-        Cursor.SetCursor(null, Vector2.zero, CursorMode.Auto);
+        Cursor.SetCursor(GameManager.Instance.OriCursorTex, Vector2.zero, CursorMode.Auto);
     }
 }

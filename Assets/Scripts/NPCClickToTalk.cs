@@ -6,6 +6,7 @@ using System.IO;
 
 public class NPCClickToTalk : MonoBehaviour
 {
+    public string NPCName;
     private NPCConversation m_NPCConversation;
     string ItemListTXT;
 
@@ -29,6 +30,7 @@ public class NPCClickToTalk : MonoBehaviour
     {
         if (Input.GetMouseButtonDown(0))
         {
+
             ConversationManager.Instance.StartConversation(m_NPCConversation);
 
             string[] Items = ItemListTXT.Split('\n');
